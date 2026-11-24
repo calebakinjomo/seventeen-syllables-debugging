@@ -8,6 +8,9 @@ The haiku:
     Cursor blinks at three          (5)
     the log swears nothing is wrong (7)
     yet the bug just grins          (5)
+
+Craft note: three plain lines, no ornament — the blink, the lie, the grin.
+Each line lands on its syllable count and the joke lands on the last word.
 """
 
 import os
